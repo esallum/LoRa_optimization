@@ -1,0 +1,1 @@
+./run-opti.sh 50;./run-opti.sh 100;./run-opti.sh 200;./run-opti.sh 300;./run-opti.sh 400;./run-opti.sh 500;./run-opti.sh 600;./run-opti.sh 700;./run-opti.sh 800;./run-opti.sh 900;./run-opti.sh 1000;./run-opti.sh 1100;./run-opti.sh 1200;./run-opti.sh 1300;./run-opti.sh 1400;./run-opti.sh 1500
