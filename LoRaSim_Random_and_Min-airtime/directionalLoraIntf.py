@@ -579,7 +579,7 @@ class myPacket():
         # for certain experiments override these and
         # choose some random frequences
         if experiment == 1:
-            self.freq = random.choice([860000000, 864000000, 868000000])
+            self.freq = random.choice([CF1,CF2, CF3, CF4, CF5, CF6, CF7, CF8])
         else:
             self.freq = 860000000
 
